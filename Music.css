@@ -1,5 +1,4 @@
-
-body {background-color: rgb(100, 92, 92); color: rgb(255, 255, 255); font-family:'sans-serif', 'Lexend'}
+body {background-color: rgb(100, 92, 92); color: rgb(255, 255, 255); font-family:'Lexend','sans-serif';}
 
 
 .A {width:1000px;height:300px;margin-left:15px;font-size: 130%;}
@@ -64,17 +63,21 @@ a:active {
   
   /* Create three unequal columns that floats next to each other */
   .column {
-    float: left;
-    padding: 10px;
+     text-indent: 30px; 
+    float: middle;
+    padding: 25px;
+
   }
   
   /* Left and right column */
   .column.side {
+     text-indent: 30px; 
     width: 25%; font-size: 130%;
   }
   
   /* Middle column */
   .column.middle {
+     text-indent: 30px; 
     width: 50%; font-size: 130%;
   }
   

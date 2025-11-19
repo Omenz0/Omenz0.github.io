@@ -1,8 +1,8 @@
 
-body {background-color: rgb(94, 73, 50); color: rgb(255, 255, 255); font-family:'Lexend', sans-serif;}
+body {background-color: rgb(100, 92, 92); color: rgb(255, 255, 255); font-family:'sans-serif', 'Lexend'}
 
 
-.A {width:1000px;height:300px;margin-left:15px;font-size: 160%;}
+.A {width:1000px;height:300px;margin-left:15px;font-size: 130%;}
 
 * {
     box-sizing: border-box;
@@ -14,7 +14,7 @@ body {background-color: rgb(94, 73, 50); color: rgb(255, 255, 255); font-family:
   
   /* Style the header */
   .MyWebsite {
-    background-color: #302112;
+    background-color: #5a5a5a;
     padding: 20px;
     text-align: center;
   }
@@ -22,7 +22,7 @@ body {background-color: rgb(94, 73, 50); color: rgb(255, 255, 255); font-family:
   /* Style the top navigation bar */
   .topnav {
     overflow: hidden;
-    background-color: #554635;
+    background-color: rgb(69, 61, 61);
   }
   
   /* Style the topnav links */
@@ -49,12 +49,14 @@ body {background-color: rgb(94, 73, 50); color: rgb(255, 255, 255); font-family:
   
   /* Left and right column */
   .column.side {
-    width: 30%; font-size: 130%;
+    width: 25%; font-size: 130%;
+    text-indent: 30px; 
   }
   
   /* Middle column */
   .column.middle {
-    width: 40%; font-size: 130%;
+      text-indent: 30px; 
+    width: 50%; font-size: 130%;
   }
   
   /* Clear floats after the columns */
