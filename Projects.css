@@ -70,7 +70,7 @@ a:active {
   
   /* Left and right column */
   .column.side {
-    text-indent: 30px; 
+    text-indent: 20px; 
     width: 50%; font-size: 130%;
   }
   

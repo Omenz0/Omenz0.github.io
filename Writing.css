@@ -1,8 +1,28 @@
-
 body {background-color: rgb(100, 92, 92); color: rgb(255, 255, 255); font-family:'sans-serif', 'Lexend'}
 
 
 .A {width:1000px;height:300px;margin-left:15px;font-size: 130%;}
+
+
+/* unvisited link */
+a:link {
+  color: rgb(0, 234, 255);
+}
+
+/* visited link */
+a:visited {
+  color: rgb(0, 225, 255);
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(255, 0, 0);
+}
+
+/* selected link */
+a:active {
+  color: rgb(255, 255, 255);
+}
 
 * {
     box-sizing: border-box;
@@ -49,13 +69,13 @@ body {background-color: rgb(100, 92, 92); color: rgb(255, 255, 255); font-family
   
   /* Left and right column */
   .column.side {
-    width: 50%; font-size: 130%;
-    text-indent: 20px; 
+    text-indent: 15px; 
+    width: 45%; font-size: 120%;
   }
   
   /* Middle column */
   .column.middle {
-      text-indent: 30px; 
+    text-indent: 30px; 
     width: 50%; font-size: 130%;
   }
   
