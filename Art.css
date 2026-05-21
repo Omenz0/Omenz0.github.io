@@ -1,5 +1,5 @@
 
-body {background-color: rgb(100, 92, 92); color: rgb(255, 255, 255); font-family:'sans-serif', 'Lexend'}
+body {background-color: rgb(12, 94, 29); color: rgb(245, 245, 245); font-family:'sans-serif', 'Roboto'}
 
 
 .A {width:1000px;height:300px;margin-left:15px;font-size: 130%;}
@@ -14,7 +14,7 @@ body {background-color: rgb(100, 92, 92); color: rgb(255, 255, 255); font-family
   
   /* Style the header */
   .MyWebsite {
-    background-color: #5a5a5a;
+    background-color: #0faf00;
     padding: 20px;
     text-align: center;
   }
@@ -22,7 +22,7 @@ body {background-color: rgb(100, 92, 92); color: rgb(255, 255, 255); font-family
   /* Style the top navigation bar */
   .topnav {
     overflow: hidden;
-    background-color: rgb(69, 61, 61);
+    background-color: rgb(51, 161, 0);
   }
   
   /* Style the topnav links */

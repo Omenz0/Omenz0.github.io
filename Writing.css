@@ -1,28 +1,8 @@
-body {background-color: rgb(100, 92, 92); color: rgb(255, 255, 255); font-family:'sans-serif', 'Lexend'}
+
+body {background-color: rgb(12, 94, 29); color: rgb(245, 245, 245); font-family:'sans-serif', 'Roboto'}
 
 
 .A {width:1000px;height:300px;margin-left:15px;font-size: 130%;}
-
-
-/* unvisited link */
-a:link {
-  color: rgb(0, 234, 255);
-}
-
-/* visited link */
-a:visited {
-  color: rgb(0, 225, 255);
-}
-
-/* mouse over link */
-a:hover {
-  color: rgb(255, 0, 0);
-}
-
-/* selected link */
-a:active {
-  color: rgb(255, 255, 255);
-}
 
 * {
     box-sizing: border-box;
@@ -34,7 +14,7 @@ a:active {
   
   /* Style the header */
   .MyWebsite {
-    background-color: #5a5a5a;
+    background-color: #0faf00;
     padding: 20px;
     text-align: center;
   }
@@ -42,7 +22,7 @@ a:active {
   /* Style the top navigation bar */
   .topnav {
     overflow: hidden;
-    background-color: rgb(69, 61, 61);
+    background-color: rgb(51, 161, 0);
   }
   
   /* Style the topnav links */
@@ -69,13 +49,13 @@ a:active {
   
   /* Left and right column */
   .column.side {
-    text-indent: 15px; 
-    width: 45%; font-size: 120%;
+    width: 25%; font-size: 130%;
+    text-indent: 30px; 
   }
   
   /* Middle column */
   .column.middle {
-    text-indent: 30px; 
+      text-indent: 30px; 
     width: 50%; font-size: 130%;
   }
   
