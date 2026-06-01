@@ -49,14 +49,14 @@ body {background-color: rgb(12, 94, 29); color: rgb(245, 245, 245); font-family:
   
   /* Left and right column */
   .column.side {
-    width: 25%; font-size: 130%;
+    width: 65%; font-size: 130%;
     text-indent: 30px; 
   }
   
   /* Middle column */
   .column.middle {
       text-indent: 30px; 
-    width: 50%; font-size: 130%;
+    width: 65%; font-size: 130%;
   }
   
   /* Clear floats after the columns */

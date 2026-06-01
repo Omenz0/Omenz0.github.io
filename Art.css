@@ -1,4 +1,5 @@
 
+
 body {background-color: rgb(12, 94, 29); color: rgb(245, 245, 245); font-family:'sans-serif', 'Roboto'}
 
 
@@ -49,7 +50,7 @@ body {background-color: rgb(12, 94, 29); color: rgb(245, 245, 245); font-family:
   
   /* Left and right column */
   .column.side {
-    width: 25%; font-size: 130%;
+    width: 50%; font-size: 130%;
     text-indent: 30px; 
   }
   
