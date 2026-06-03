@@ -70,6 +70,7 @@ body {background-color: rgb(12, 94, 29); color: rgb(245, 245, 245); font-family:
   @media screen and (max-width: 600px) {
     .column.side, .column.middle {
       width: 100%;
+
     }
   }
  
